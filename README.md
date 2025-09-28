@@ -115,6 +115,10 @@ Be a reference in software leadership and development.
 </div>
 
 <div align="center" style="border: 0px solid cyan;">
+    ![Snake animation](https://dimitrimrs.github.io/dimitrimrs/snake.svg)
+</div>
+
+<div align="center" style="border: 0px solid cyan;">
    <img width="100%" align="center" src="https://raw.githubusercontent.com/dimitrimrs/dimitrimrs/output/snake.svg" alt="Snake animation" />
 </div>
 
