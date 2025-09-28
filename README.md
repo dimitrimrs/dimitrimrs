@@ -120,7 +120,7 @@ Be a reference in software leadership and development.
 
 <hr />
 <a href="https://www.linkedin.com/in/dimitrimrs/">
-   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+dimitrimrs.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Dimitri+MRS.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
 </a>
 <br />Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
