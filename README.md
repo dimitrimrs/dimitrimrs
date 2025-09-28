@@ -115,11 +115,11 @@ Be a reference in software leadership and development.
 </div>
 
 <div align="center" style="border: 0px solid cyan;">
-   <img width="100%" align="center" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+   <img width="100%" align="center" src="https://raw.githubusercontent.com/dimitrimrs/dimitrimrs/output/snake.svg" alt="Snake animation" />
 </div>
 
 <hr />
-<a href="https://www.linkedin.com/in/marcosmoraisjr/">
+<a href="https://www.linkedin.com/in/dimitrimrs/">
    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
 </a>
 <br />Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
