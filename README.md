@@ -1,4 +1,4 @@
-![Bem vindo](https://github.com/user-attachments/assets/cd1c9279-10f5-4e10-b0e4-64d971a66f78)
+<img width="955" height="468" alt="Image" src="https://github.com/user-attachments/assets/87bcf333-64a6-4248-92a5-e24fc35c2130" />
 
 ## 🟢 About me:
 💻 Backend Developer | Full-Stack Enthusiast | Technology & Linux Lover
